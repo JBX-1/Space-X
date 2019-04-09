@@ -21,5 +21,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBX-1/Space-X.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JBX-1/Space-X/issues"
+  },
+  "homepage": "https://github.com/JBX-1/Space-X#readme"
 }
